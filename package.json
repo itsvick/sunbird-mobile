@@ -176,8 +176,8 @@
       "cordova-plugin-screen-orientation": {},
       "cordova-plugin-statusbar": {},
       "cordova.plugins.diagnostic": {
-       "ANDROID_SUPPORT_VERSION": "27.+"
-     },
+        "ANDROID_SUPPORT_VERSION": "27.+"
+      },
       "cordova-plugin-fcm-with-dependecy-updated": {}
     },
     "platforms": []
