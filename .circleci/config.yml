@@ -3,6 +3,9 @@ jobs:
  build:
    docker:
      - image: circleci/node:chakracore-10.13.0
+   branches:
+     only: 
+      - circleci
    steps:
      - checkout
      - run:
